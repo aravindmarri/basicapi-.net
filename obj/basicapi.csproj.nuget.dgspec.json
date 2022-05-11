@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\work\\.NET Practice\\basicapi\\basicapi\\basicapi.csproj": {}
+    "C:\\Work\\.NET Practice\\basicapi\\basicapi\\basicapi.csproj": {}
   },
   "projects": {
-    "C:\\work\\.NET Practice\\basicapi\\basicapi\\basicapi.csproj": {
+    "C:\\Work\\.NET Practice\\basicapi\\basicapi\\basicapi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\work\\.NET Practice\\basicapi\\basicapi\\basicapi.csproj",
+        "projectUniqueName": "C:\\Work\\.NET Practice\\basicapi\\basicapi\\basicapi.csproj",
         "projectName": "basicapi",
-        "projectPath": "C:\\work\\.NET Practice\\basicapi\\basicapi\\basicapi.csproj",
-        "packagesPath": "C:\\Users\\Aravind\\.nuget\\packages\\",
-        "outputPath": "C:\\work\\.NET Practice\\basicapi\\basicapi\\obj\\",
+        "projectPath": "C:\\Work\\.NET Practice\\basicapi\\basicapi\\basicapi.csproj",
+        "packagesPath": "C:\\Users\\AravindM\\.nuget\\packages\\",
+        "outputPath": "C:\\Work\\.NET Practice\\basicapi\\basicapi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Aravind\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\AravindM\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -73,7 +73,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
